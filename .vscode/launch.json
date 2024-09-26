@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Recurssion1",
+            "request": "launch",
+            "mainClass": "Recurssion1",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
             "name": "ArrayPattern1",
             "request": "launch",
             "mainClass": "ArrayPattern1",
