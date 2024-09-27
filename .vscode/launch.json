@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Recursion5",
+            "request": "launch",
+            "mainClass": "Recursion5",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "Recursion4",
+            "request": "launch",
+            "mainClass": "Recursion4",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "Recurssion3",
+            "request": "launch",
+            "mainClass": "Recurssion3",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "Recurrsion2",
+            "request": "launch",
+            "mainClass": "Recurrsion2",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
             "name": "Recurssion1",
             "request": "launch",
             "mainClass": "Recurssion1",
