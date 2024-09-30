@@ -2,7 +2,7 @@
  * Recurssion3 = print a string in reverse order
  * time complexity = O(n)
  */
-public class Recurssion3 {
+public class Recursion3 {
 
     public static void printReverse(String str) {
         if(str.length() == 0) {
