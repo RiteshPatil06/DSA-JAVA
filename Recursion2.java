@@ -2,7 +2,7 @@
  * Recurrsion2 = Tower of Hanoi question
  * Time Complexity: O(2^n)
  */
-public class Recurrsion2 {
+public class Recursion2 {
 
     public static void towerOfHanoi(int n, String source, String helper, String dest) {
         if(n == 1) {
