@@ -1,5 +1,7 @@
 /**
  * RecursionAdvance1: print all permutations of a string
+ * permutation means all possible arrangements of characters in a string or a set of characters.
+ * total permutations of n = n!
  * Time Complexity: O(n!)
  */
 public class RecursionAdvance1 {

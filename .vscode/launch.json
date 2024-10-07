@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SudokuSolver",
+            "request": "launch",
+            "mainClass": "SudokuSolver",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "Backtracking1",
+            "request": "launch",
+            "mainClass": "Backtracking1",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
             "name": "RecursionAdvance5",
             "request": "launch",
             "mainClass": "RecursionAdvance5",
