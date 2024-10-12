@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "OOPs",
+            "request": "launch",
+            "mainClass": "OOPs",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
+            "name": "Recursion2",
+            "request": "launch",
+            "mainClass": "Recursion2",
+            "projectName": "DSA-JAVA_51d0ad40"
+        },
+        {
+            "type": "java",
             "name": "SudokuSolver",
             "request": "launch",
             "mainClass": "SudokuSolver",
